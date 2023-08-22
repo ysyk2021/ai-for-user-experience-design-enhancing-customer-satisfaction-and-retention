@@ -1,5 +1,4 @@
-Chapter 4: Collecting and Analyzing Data with AI for User Experience Design
-===========================================================================
+
 
 In this chapter, we will discuss the importance of data collection and analysis in user experience design, best practices for data collection and preparation, and how to use AI algorithms for data analysis and pattern recognition in user experience design.
 

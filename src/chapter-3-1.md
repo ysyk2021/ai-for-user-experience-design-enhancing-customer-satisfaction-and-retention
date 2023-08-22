@@ -1,5 +1,4 @@
-Assessing Your User Experience Needs and Goals
-==================================================================================================================================
+
 
 In this chapter, we will discuss the importance of assessing user experience needs and goals when preparing for AI implementation in user experience design. We will explore how to define user experience needs and goals and provide guidance on how to align these with AI capabilities.
 

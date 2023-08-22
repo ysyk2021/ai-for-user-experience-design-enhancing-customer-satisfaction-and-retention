@@ -1,5 +1,4 @@
-Chapter 3: Choosing the Right AI Tools and Technologies for User Experience Design
-==================================================================================
+
 
 In this chapter, we will explore the various AI tools and technologies that can be used for user experience design. We will also discuss key factors to consider when choosing these tools and provide case studies of successful AI implementations in user experience design.
 

@@ -1,5 +1,4 @@
-Why AI is Important for User Experience Design
-============================================================
+
 
 User experience design is a critical component of any business that seeks to deliver products or services that meet customer needs and preferences. In today's digital age, user experience design has become even more important, as customers increasingly interact with businesses through digital channels.
 

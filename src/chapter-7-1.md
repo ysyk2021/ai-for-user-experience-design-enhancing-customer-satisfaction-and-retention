@@ -1,5 +1,4 @@
-Assessing the Effectiveness of AI for User Experience Design
-===========================================================================================================================
+
 
 In this chapter, we will discuss how to assess the effectiveness of AI for user experience design. By evaluating the impact of AI on user experience performance, businesses can identify areas for improvement and make necessary adjustments to enhance customer satisfaction and retention.
 
