@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss best practices for data collection and preparation in AI for user experience design. By following these practices, businesses can ensure that the data used to inform design decisions is accurate, relevant, and useful.
 
 Define Clear Objectives and Metrics

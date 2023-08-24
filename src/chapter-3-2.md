@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the importance of evaluating data availability and quality when preparing for AI implementation in user experience design. We will explore the types of data required for effective AI implementation and provide guidance on how to assess data quality.
 
 Understanding the Types of Data Required for AI Implementation

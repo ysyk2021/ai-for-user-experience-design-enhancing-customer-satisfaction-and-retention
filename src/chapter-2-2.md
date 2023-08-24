@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the types of AI that can be used to enhance user experience design. These include machine learning algorithms, natural language processing (NLP) tools, chatbots and virtual assistants, recommendation engines, and predictive analytics.
 
 Machine Learning Algorithms

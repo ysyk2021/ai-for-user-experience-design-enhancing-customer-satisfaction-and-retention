@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss how to measure the impact of AI on user experience performance. By assessing the effectiveness of AI and identifying areas for improvement, businesses can continuously adapt and improve their AI approach for user experience design, ultimately enhancing customer satisfaction and retention.
 
 Assessing the Effectiveness of AI for User Experience Design

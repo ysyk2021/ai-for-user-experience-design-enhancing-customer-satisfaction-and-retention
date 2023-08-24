@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore case studies of successful AI implementations in user experience design. These case studies demonstrate how small businesses can choose the right AI tools and technologies to enhance their user experience and improve customer satisfaction and retention.
 
 Case Study 1: Netflix

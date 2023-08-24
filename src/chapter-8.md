@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the ethical considerations, developing governance frameworks, and legal and regulatory considerations for AI implementation in user experience design.
 
 Ethical Considerations for AI Implementation in User Experience Design

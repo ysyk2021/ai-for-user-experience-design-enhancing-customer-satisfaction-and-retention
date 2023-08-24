@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the legal and regulatory considerations associated with AI implementation in user experience design. As AI becomes more prevalent in business operations, it is important for businesses to understand these considerations in order to ensure responsible and ethical use of AI.
 
 Data Privacy

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the definition of AI and how it can be used to enhance user experience design.
 
 Definition of AI

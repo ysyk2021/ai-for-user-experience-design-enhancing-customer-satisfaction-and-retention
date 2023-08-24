@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the definition of AI and how it can be used to enhance user experience design. We will also explore the types of AI used for user experience design and the benefits of AI for enhancing customer satisfaction and retention.
 
 Definition of AI
