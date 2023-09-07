@@ -17,3 +17,7 @@ The goal of this book is to equip designers and other professionals with the kno
 Whether you're a seasoned UX designer looking to integrate AI into your workflow or an AI professional interested in the application of AI to user experience, this book offers insights and strategies for designing experiences that delight customers and drive business success.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

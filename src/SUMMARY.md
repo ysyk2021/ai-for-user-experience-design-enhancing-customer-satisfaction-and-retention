@@ -33,3 +33,4 @@
   - [Legal and regulatory considerations for AI implementation in user experience design](chapter-8-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
