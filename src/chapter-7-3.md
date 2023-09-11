@@ -1,5 +1,4 @@
-Chapter: Continuously Adapting and Improving Your AI Approach for User Experience Design
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
